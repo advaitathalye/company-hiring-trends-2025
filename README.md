@@ -32,6 +32,7 @@ See Datajobs.csv for raw data
 This dashboard is built to empower jobseekers, recruiters, and analysts with data-driven insights, not guesswork.
 
 **Available Visuals**
+![Company Hiring Trends Dashboard](Company%20hiring%20trends.png)
 * KPI Cards: Total jobs posted, unique companies, unique locations, most active company
 * Bar Chart: Top hiring companies
 * Pie Chart: Share of job postings by company
